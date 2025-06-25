@@ -9,4 +9,5 @@ global using Catalog.API.Exceptions;
 global using BuildingBlocks.Behaviors;
 global using BuildingBlocks.Exceptions;
 global using BuildingBlocks.Exceptions.Handler;
+global using Catalog.API.Data;
 
